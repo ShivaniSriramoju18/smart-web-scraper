@@ -1,0 +1,8 @@
+Scraped : 2026-05-11 12:51
+Total   : 1 items
+==================================================
+
+#1
+  text              : RESULTS OF SCCE
+  url               : https://scce.ac.in/result/
+

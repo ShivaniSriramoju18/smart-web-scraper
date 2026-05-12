@@ -1,0 +1,179 @@
+Scraped : 2026-05-11 12:44
+Total   : 35 items
+==================================================
+
+#1
+  short_text        : Bollywood
+  link              : https://indianexpress.com/section/entertainment/bollywood/
+  location          : N/A
+
+#2
+  short_text        : Hollywood
+  link              : https://indianexpress.com/section/entertainment/hollywood/
+  location          : N/A
+
+#3
+  short_text        : Television
+  link              : https://indianexpress.com/section/entertainment/television/
+  location          : N/A
+
+#4
+  short_text        : Tamil
+  link              : https://indianexpress.com/section/entertainment/tamil/
+  location          : N/A
+
+#5
+  short_text        : Telugu
+  link              : https://indianexpress.com/section/entertainment/telugu/
+  location          : N/A
+
+#6
+  short_text        : Malayalam
+  link              : https://indianexpress.com/section/entertainment/malayalam/
+  location          : N/A
+
+#7
+  short_text        : Regional
+  link              : https://indianexpress.com/section/entertainment/regional/
+  location          : N/A
+
+#8
+  short_text        : Web Stories
+  link              : https://indianexpress.com/web-stories/
+  location          : N/A
+
+#9
+  short_text        : Movie Review
+  link              : https://indianexpress.com/section/entertainment/movie-review/
+  location          : N/A
+
+#10
+  short_text        : Cricket
+  link              : https://indianexpress.com/section/sports/cricket/
+  location          : N/A
+
+#11
+  short_text        : IPL 2026
+  link              : https://indianexpress.com/section/sports/ipl/
+  location          : N/A
+
+#12
+  short_text        : Live Score
+  link              : https://indianexpress.com/section/sports/cricket/live-score/
+  location          : N/A
+
+#13
+  short_text        : Chess
+  link              : https://indianexpress.com/section/sports/chess/
+  location          : N/A
+
+#14
+  short_text        : Football
+  link              : https://indianexpress.com/section/sports/football/
+  location          : N/A
+
+#15
+  short_text        : N/A
+  link              : https://indianexpress.com/section/cities/delhi/
+  location          : Delhi
+
+#16
+  short_text        : N/A
+  link              : https://indianexpress.com/section/cities/mumbai/
+  location          : Mumbai
+
+#17
+  short_text        : N/A
+  link              : https://indianexpress.com/section/cities/kolkata/
+  location          : Kolkata
+
+#18
+  short_text        : N/A
+  link              : https://indianexpress.com/section/cities/pune/
+  location          : Pune
+
+#19
+  short_text        : Chandigarh
+  link              : https://indianexpress.com/section/cities/chandigarh/
+  location          : N/A
+
+#20
+  short_text        : Ahmedabad
+  link              : https://indianexpress.com/section/cities/ahmedabad/
+  location          : N/A
+
+#21
+  short_text        : Lucknow
+  link              : https://indianexpress.com/section/cities/lucknow/
+  location          : N/A
+
+#22
+  short_text        : N/A
+  link              : https://indianexpress.com/section/cities/chennai/
+  location          : Chennai
+
+#23
+  short_text        : N/A
+  link              : https://indianexpress.com/section/cities/hyderabad/
+  location          : Hyderabad
+
+#24
+  short_text        : N/A
+  link              : https://indianexpress.com/section/cities/bangalore/
+  location          : Bangalore
+
+#25
+  short_text        : The GenZ vibe
+  link              : https://indianexpress.com/about/what-is-the-vibe/
+  location          : N/A
+
+#26
+  short_text        : Health
+  link              : https://indianexpress.com/section/lifestyle/health/
+  location          : N/A
+
+#27
+  short_text        : Food
+  link              : https://indianexpress.com/section/lifestyle/food-wine/
+  location          : N/A
+
+#28
+  short_text        : Fitness
+  link              : https://indianexpress.com/section/lifestyle/fitness/
+  location          : N/A
+
+#29
+  short_text        : Sleep 101
+  link              : https://indianexpress.com/about/sleep-101/
+  location          : N/A
+
+#30
+  short_text        : Pets
+  link              : https://indianexpress.com/section/lifestyle/pets-animals/
+  location          : N/A
+
+#31
+  short_text        : Relationships
+  link              : https://indianexpress.com/section/lifestyle/feelings/
+  location          : N/A
+
+#32
+  short_text        : Travel
+  link              : https://indianexpress.com/section/lifestyle/destination-of-the-week/
+  location          : N/A
+
+#33
+  short_text        : Workplace
+  link              : https://indianexpress.com/section/lifestyle/workplace/
+  location          : N/A
+
+#34
+  short_text        : Fashion
+  link              : https://indianexpress.com/section/lifestyle/fashion/
+  location          : N/A
+
+#35
+  short_text        : Art
+  link              : https://indianexpress.com/section/lifestyle/art-and-culture/
+  location          : N/A
+
